@@ -15,7 +15,7 @@ Personal Details
 * **Name:** Junteng Liu
 * **Affiliation:** HKUST NLP Group, Hong Kong University of Science and Technology
 * **Position:** First-year PhD candidate
-* **PhD supervisor:** Professor Junxian He
+* **PhD supervisor:** Professor Junxian He (previously advised Junteng Liu during undergraduate studies at SJTU)
 * **Group:** HKUST NLP Group — a research group at Hong Kong University of Science and Technology, led by Professor Junxian He, focusing on natural language processing research
 
 Academic Background
